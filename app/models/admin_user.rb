@@ -1,1 +1,2 @@
-admin_user.rb
+class AdminUser < User
+end
